@@ -1,0 +1,4 @@
+sales_data.csv
+__pycache__/
+.env
+.anthropic_key
